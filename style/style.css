@@ -1866,7 +1866,16 @@ body {
     background-color:#90B9A4 ;
   }
 
+  div.scroll-container {
+    background-color: #e1cece;
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+  }
   
+  div.scroll-container img {
+    padding: 10px;
+  }
 
  
 /*# sourceMappingURL=style.css.map */
